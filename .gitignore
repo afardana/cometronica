@@ -20,5 +20,5 @@
 *.srec
 *.mk
 
-*/Debug
-*/Release
+Debug/
+Release/
