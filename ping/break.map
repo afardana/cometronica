@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+buff                                                              0x00E0      10
+_base_y                                                           0x00EA       4
+_seed                                                             0x00EE       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+r1                                                                R4,R5        2
+counter1                                                          R6,R7        2
+time1                                                             R8,R9        2
+_lcd_x                                                            R11          1
+_lcd_y                                                            R10          1
+_lcd_maxx                                                         R13          1
