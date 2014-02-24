@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio temporary files
+*.atsuo
+*.d
+*.lss
+*.map
+*.srec
+*.mk
