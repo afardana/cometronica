@@ -13,6 +13,7 @@
 
 #define LEDTaskPriority	1
 
+// Functions prototype
 void vLEDTask1();
 void vLEDTask2();
 
