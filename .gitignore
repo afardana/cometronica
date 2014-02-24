@@ -19,3 +19,6 @@
 *.map
 *.srec
 *.mk
+
+*/Debug
+*/Release
